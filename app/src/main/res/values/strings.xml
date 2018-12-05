@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">iVolunteer - Coursework 1</string>
+    <string name="tv_activity_name">Activity Name:</string>
+    <string name="tv_activity_location">Activity Location:</string>
+    <string name="tv_activity_date">Activity Date:</string>
+    <string name="tv_activity_time">Activity Time:</string>
+    <string name="tv_volunteer_name">Volunteer Name:</string>
+    <string name="btn_add_activity">Add Activity</string>
+    <string name="tv_activity_details"><u>Activity Details</u></string>
+    <string name="tv_add_activity_form"><u>Add Activity Form</u></string>
+    <string name="btn_back">Back</string>
+    <string name="datepicker_title">Activity Date Picker</string>
+</resources>
